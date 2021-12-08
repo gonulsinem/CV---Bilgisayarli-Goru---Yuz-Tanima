@@ -9,20 +9,25 @@ Anaconda Prompt üzerinde Python kullanarak PyTorch Kütüphanesini import ettik
 ![image](https://user-images.githubusercontent.com/82284108/145257384-a222dabf-8cc7-47d9-8103-ec4819bd0ef8.png)
 
 
-BTK Akademi'de bulanan 'Bilgisayarlı Görü Uygulama Alanları' kursundan 'ArcFace ile Yüz Tanıma' video serisinden yararlandım.
+BTK Akademi'de bulanan 'Bilgisayarlı Görü Uygulama Alanları' kursundan 'ArcFace ile Yüz Tanıma' video serisinden yararlandım. 
+Proje için "backbone, data, dataset, margin, util" dosyaları gereklidir.
+
+![image](https://user-images.githubusercontent.com/82284108/145263735-1001d57c-dd35-4d9a-ad61-f1cbd54a21a9.png)
 
 
-**ArcFace** veya Additive Angular Margin Loss modeli; yüz tanıma, yüz arama işlemleri için kullanılabilir.
+
+>**ArcFace** veya Additive Angular Margin Loss modeli; yüz tanıma, yüz arama işlemleri için kullanılabilir.
 
 Eğitim(train) veri seti olarak MS1M veri seti kullanıldı. Veriler, veri setinde klasörlere ayrılmış olarak bulunmaktadır.
 
-![image](https://user-images.githubusercontent.com/82284108/145257915-6da483e0-f515-47bd-8679-423f79d0884a.png)
+![image](https://user-images.githubusercontent.com/82284108/145264131-9884f5d7-84ef-44ee-9183-d43171aae0e8.png)
 
 “0” klasörüne ait örnek görüntüler aşağıda görülmektedir.
 
+
 ![image](https://user-images.githubusercontent.com/82284108/145258113-aab8f507-493f-4283-a0e1-8d1c9043ff74.png)
 
-Proje "Yuz_Tanima.ipynb" içerisinde bulunmaktadir.
+>Proje "Yuz_Tanima.ipynb" içerisinde bulunmaktadir.
 
 >Derin Öğrenme için Pytorch kurulumunda, eğitimi GPU kullanarak yapmak için aşağıda kaynaklar kullanılabilir:
 >
