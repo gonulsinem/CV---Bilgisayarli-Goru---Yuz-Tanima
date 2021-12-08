@@ -20,7 +20,7 @@ Proje için "backbone, data, dataset, margin, util" dosyaları gereklidir.
 
 Eğitim(train) veri seti olarak MS1M veri seti kullanıldı. Veriler, veri setinde klasörlere ayrılmış olarak bulunmaktadır.
 
-![image](https://user-images.githubusercontent.com/82284108/145264131-9884f5d7-84ef-44ee-9183-d43171aae0e8.png)
+![image](https://user-images.githubusercontent.com/82284108/145264624-eced66c5-8392-47a8-be49-2f7df6f1da3e.png)
 
 “0” klasörüne ait örnek görüntüler aşağıda görülmektedir.
 
